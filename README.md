@@ -1,2 +1,2 @@
-# ChemSolutionRe
+# ChemSolutionRe Web
 Chem Solution Reborn
